@@ -4,13 +4,13 @@ Graduado en Ingeniería Matemática con experiencia práctica en automatización
  
 Actualmente desarrollo soluciones que eliminan tareas manuales repetitivas en entornos de soporte técnico, combinando esta base con formación y proyectos en sistemas multiagentes. Busco incorporarme a un equipo de datos, automatización o IA donde aportar pensamiento analítico, capacidad de programación y una visión orientada a la aplicación práctica de la inteligencia artificial.
  
-📍 Arroyomolinos, Madrid  
-📧 a.serranocatalina@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-serrano-094145336/)
+ Arroyomolinos, Madrid  
+ a.serranocatalina@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/alejandro-serrano-094145336/)
  
 ---
  
-## 💼 Experiencia
+##  Experiencia
  
 **Prácticas — Automatización de Procesos e IA**  
 *NTT DATA Europe & Latam · abr. 2026 – actualidad*
@@ -21,7 +21,7 @@ Actualmente desarrollo soluciones que eliminan tareas manuales repetitivas en en
 - Tecnologías: Python (automatización y orquestación), Java y Android Studio (tests sobre terminales), VS Code.
 ---
  
-## 🎯 Áreas de interés
+##  Áreas de interés
  
 Estoy enfocando mi desarrollo profesional hacia los siguientes campos, combinando experiencia ya adquirida con formación activa:
  
@@ -31,7 +31,7 @@ Estoy enfocando mi desarrollo profesional hacia los siguientes campos, combinand
 - **Sistemas RAG (Retrieval-Augmented Generation)** — interés activo en el diseño de arquitecturas que combinan recuperación de información y modelos generativos para mejorar la precisión y relevancia de las respuestas.
 ---
  
-## 🚀 Proyectos destacados
+##  Proyectos destacados
  
 ### Análisis de datos de ciberataques (proyecto universitario con De Nexus)
 Inspección, limpieza y análisis de datasets de ciberataques en formato CSV.
@@ -39,11 +39,11 @@ Inspección, limpieza y análisis de datasets de ciberataques en formato CSV.
 - Data wrangling para detectar inconsistencias y valores anómalos.
 - Procesamiento y análisis con Python (Pandas, NumPy), incluyendo identificación de patrones y generación de informes de resultados.
 - Aplicación de técnicas de visualización y detección de anomalías para apoyar las conclusiones del análisis.
-> 🔍 Más proyectos disponibles en mis [repositorios](https://github.com/seerraa16?tab=repositories).
+>  Más proyectos disponibles en mis [repositorios](https://github.com/seerraa16?tab=repositories).
  
 ---
  
-## 🛠️ Habilidades técnicas
+## Habilidades técnicas
  
 **Lenguajes y herramientas**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -76,27 +76,27 @@ Comunicación técnica · Trabajo en equipo · Resolución de problemas
  
 ---
  
-## 🎓 Formación
+## Formación
  
 **Ingeniería Matemática**  
 Universidad Alfonso X el Sabio — Villanueva de la Cañada · 09/2022 – 05/2026
  
 ---
  
-## 📜 Certificaciones
+## Certificaciones
  
 - Ironhack — Data Analysis
 - Microsoft Power BI Desktop — The Practical Bootcamp
 - Storytelling: El poder de una buena historia
 ---
  
-## 🌐 Idiomas
+## Idiomas
  
 - **Español:** Nativo
 - **Inglés:** B2 — Intermedio avanzado
 ---
  
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=seerraa16&show_icons=true&theme=default&hide_border=true)
  
@@ -106,4 +106,5 @@ Universidad Alfonso X el Sabio — Villanueva de la Cañada · 09/2022 – 05/20
  
 ---
  
-📫 ¿Quieres contactarme? Escríbeme a **a.serranocatalina@gmail.com** o conecta conmigo en [LinkedIn](https://www.linkedin.com/in/alejandro-serrano-094145336/).
+¿Quieres contactarme? Escríbeme a **a.serranocatalina@gmail.com** o conecta conmigo en [LinkedIn](https://www.linkedin.com/in/alejandro-serrano-094145336/).
+
