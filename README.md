@@ -1,8 +1,8 @@
 # Alejandro Serrano Catalina
  
-Graduado en Ingeniería Matemática con experiencia práctica en automatización de procesos y análisis de datos con Python y SQL. Actualmente desarrollo soluciones que eliminan tareas manuales repetitivas en entornos de soporte técnico, además de trabajar en proyectos de análisis de datos aplicados a ciberseguridad.
+Graduado en Ingeniería Matemática con experiencia práctica en automatización de procesos y análisis de datos con Python y SQL. Mi área de interés se centra en el análisis y la ciencia de datos, la automatización de procesos y, cada vez más, en la orquestación de agentes de IA y el desarrollo de sistemas RAG (Retrieval-Augmented Generation).
  
-Busco incorporarme a un equipo de datos, automatización o análisis donde aportar pensamiento analítico y capacidad de programación.
+Actualmente desarrollo soluciones que eliminan tareas manuales repetitivas en entornos de soporte técnico, combinando esta base con formación y proyectos en sistemas multiagentes. Busco incorporarme a un equipo de datos, automatización o IA donde aportar pensamiento analítico, capacidad de programación y una visión orientada a la aplicación práctica de la inteligencia artificial.
  
 📍 Arroyomolinos, Madrid  
 📧 a.serranocatalina@gmail.com  
@@ -19,6 +19,16 @@ Busco incorporarme a un equipo de datos, automatización o análisis donde aport
 - Automatización del proceso de alta de estaciones de servicio (cliente Repsol), sustituyendo la introducción manual de datos en dos aplicaciones distintas por una solución que completa el alta a partir de los Excels de origen.
 - Desarrollo de tests automáticos para los terminales (handheld) de las estaciones de servicio, permitiendo verificar su correcto funcionamiento sin conexión manual de un técnico a cada dispositivo.
 - Tecnologías: Python (automatización y orquestación), Java y Android Studio (tests sobre terminales), VS Code.
+---
+ 
+## 🎯 Áreas de interés
+ 
+Estoy enfocando mi desarrollo profesional hacia los siguientes campos, combinando experiencia ya adquirida con formación activa:
+ 
+- **Análisis y ciencia de datos** — limpieza, modelado y extracción de insights a partir de datasets reales (ver proyecto de ciberataques más abajo).
+- **Automatización de procesos** — diseño de soluciones que eliminan tareas manuales repetitivas, como en mi experiencia actual con NTT DATA.
+- **Orquestación de agentes de IA** — formación inicial en sistemas multiagentes, aplicando IA a la coordinación y resolución colaborativa de problemas en entornos complejos.
+- **Sistemas RAG (Retrieval-Augmented Generation)** — interés activo en el diseño de arquitecturas que combinan recuperación de información y modelos generativos para mejorar la precisión y relevancia de las respuestas.
 ---
  
 ## 🚀 Proyectos destacados
@@ -51,6 +61,10 @@ Inspección, limpieza y análisis de datasets de ciberataques en formato CSV.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat)
  
+**IA, agentes y RAG**
+- Sistemas multiagentes y coordinación de IA en entornos complejos
+- Conceptos y arquitecturas de Retrieval-Augmented Generation (RAG)
+- Aplicación de IA a la automatización y orquestación de procesos
 **Matemáticas aplicadas**
 - Modelización y optimización
 - Estadística y probabilidad
